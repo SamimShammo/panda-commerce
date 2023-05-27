@@ -1,0 +1,35 @@
+.banner_bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+
+.buy_now_btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+}
+.price_h1{
+    color: #FF136F;
+}
+/* category section  */
+.category_cart1{
+  background-color: orange;
+}
+.category_cart2{
+background-color: orchid;
+}
+.category_cart3{
+    background-color: blue;
+}
+.category_img{
+    width: 100px;
+}
+/* category section  */
+
+/* touch_section */
+.touch_section{
+    background-color: #fceae8;
+}
+/* touch_section */
